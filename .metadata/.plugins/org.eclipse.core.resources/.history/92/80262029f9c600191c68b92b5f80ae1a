@@ -1,0 +1,11 @@
+package pe.edu.upc.conexion;
+
+import java.sql.Connection;
+
+public class MotorConexion {
+
+	private Connection oCn;
+	public MotorDaoImpl() {
+		oCn=Conexion.AbrirConexion();
+	}
+}

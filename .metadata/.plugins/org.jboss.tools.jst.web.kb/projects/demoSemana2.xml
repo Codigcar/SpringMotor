@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-microprofile-3.7.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-cert-util-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/.m2/repository/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-compat-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/c-1_0.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/fmt-1_0.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/sql-1_0.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/x-1_0.tld" project="demoSemana2"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-permission-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/.m2/repository/javax/faces/javax.faces-api/2.3/javax.faces-api-2.3.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-security-manager-action-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-asn1-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-http-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/S4/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/batch/api/main/jboss-batch-api_1.0_spec-1.0.2.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/wsdl4j/api/main/wsdl4j-1.6.3.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-spnego-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-deprecated-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/Desktop/ConexionJava/libreriasconexjava/msutil.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/as/controller-client/main/wildfly-controller-client-9.0.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-token-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-jacc-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-spec-1.2.6-RC1.jar"/>
+  <path value="C:/Users/S4/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-3.7.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-oauth2-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-deprecated-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-gssapi-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/dmr/main/jboss-dmr-1.5.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-1.0.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-json-util-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-source-impl-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/inject/api/main/javax.inject-1.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-cert-acme-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/Desktop/ConexionJava/libreriasconexjava/standard.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/c-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/c-1_0.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/c.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fmt-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fmt-1_0.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fmt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fn.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/permittedtaglibs.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/scriptfree.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/sql-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/sql-1_0.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/sql.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/x-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/x-1_0.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/x.tld" project="demoSemana2"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-3.7.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/el/api/main/jboss-el-api_3.0_spec-1.0.13.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-digest-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-form-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-6.0.16.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.3_spec-2.3.9.SP02.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/logging/main/jboss-logging-3.4.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-digest-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/enterprise/api/main/cdi-api-2.0.SP1.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-anonymous-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-ssl-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/validation/api/main/validation-api-2.0.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-deprecated-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-external-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/interceptor/api/main/jboss-interceptors-api_1.2_spec-1.0.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/enterprise/concurrent/api/main/jboss-concurrency-api_1.0_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/S4/.m2/repository/org/primefaces/primefaces/7.0/primefaces-7.0.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-7.0.jar/meta-inf/faces-config.xml" project="demoSemana2"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-7.0.jar/meta-inf/primefaces-p.taglib.xml" project="demoSemana2"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/ejb/api/main/jboss-ejb-api_3.2_spec-1.0.2.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/annotation/api/main/jboss-annotations-api_1.3_spec-1.0.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-cert-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/security/auth/message/api/main/jboss-jaspi-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-gs2-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-1.0.3.Final.jar"/>
+  <path value="C:/Users/S4/.m2/repository/org/omnifaces/omnifaces/3.3/omnifaces-3.3.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/activation/api/main/activation-1.1.1.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-security-manager-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-util-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/json/api/main/javax.json-api-1.1.2.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-impl-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c-1_1.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fmt-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fmt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fn.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/permittedtaglibs.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/scriptfree.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/sql-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/sql.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/x-1_0-rt.tld" project="demoSemana2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/x.tld" project="demoSemana2"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-jdbc-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/Desktop/ConexionJava/libreriasconexjava/mysql-connector-java-5.0.3-bin.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-3.7.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-sasl-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-provider-util-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-principal-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-3.7.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/S4/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/xml/soap/api/main/jboss-saaj-api_1.3_spec-1.0.6.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-entity-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-plain-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/websocket/api/main/jboss-websocket-api_1.1_spec-1.1.4.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-base-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-oauth2-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/common/main/wildfly-common-1.5.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/mail/api/main/javax.mail-1.6.2.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-gssapi-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-util-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-localuser-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-basic-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/Desktop/ConexionJava/libreriasconexjava/msbase.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/persistence/api/main/javax.persistence-api-2.2.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-ldap-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-audit-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-client-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-sso-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-realm-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/Desktop/ConexionJava/libreriasconexjava/mssqlserver.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-1.0.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/xml/bind/api/main/jboss-jaxb-api_2.3_spec-1.0.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-otp-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-scram-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-source-deprecated-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-keystore-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-x500-cert-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-bearer-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-password-impl-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-credential-store-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-http-digest-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-scram-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-auth-util-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-jaspi-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-sasl-deprecated-1.9.1.Final.jar"/>
+  <path value="C:/Users/S4/Desktop/MYSQLJAR/mysql-connector-java-8.0.13.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-util-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-auth-server-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/jms/api/main/jboss-jms-api_2.0_spec-1.0.2.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-5.0.3.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-digest-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/xml/ws/api/main/jboss-jaxws-api_2.3_spec-1.0.0.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-mechanism-http-1.9.1.Final.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/javax/transaction/api/main/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Users/S4/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar"/>
+  <path value="C:/wildfly-17.0.0.Final/modules/system/layers/base/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.3.0.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+   <linked-resource name="%2;" path="%1"/>
+   <linked-resource declaration="true" name="%3;" path="%1"/>
+   <linked-resource declaration="true" name="%4;" path="%2"/>
+   <linked-resource name="%1;" path="%5"/>
+   <linked-resource name="%2;" path="%6"/>
+  </core>
+  <core validator-id="batch-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="37" name="%2" offset="1391" path="%7"/>
+   <linked-el length="35" name="%2" offset="737" path="%7"/>
+   <linked-el length="44" name="%2" offset="977" path="%7"/>
+   <linked-el length="34" name="%2" offset="918" path="%8"/>
+   <linked-el length="43" name="%2" offset="1208" path="%7"/>
+   <linked-el length="40" name="%2" offset="649" path="%8"/>
+   <linked-el length="37" name="%4" offset="1391" path="%7"/>
+   <linked-el length="19" name="%4" offset="1503" path="%8"/>
+   <linked-el length="35" name="%4" offset="737" path="%7"/>
+   <linked-el length="44" name="%4" offset="977" path="%7"/>
+   <linked-el length="19" name="%4" offset="1553" path="%8"/>
+   <linked-el length="20" name="%4" offset="1363" path="%8"/>
+   <linked-el length="34" name="%4" offset="918" path="%8"/>
+   <linked-el length="21" name="%4" offset="1414" path="%8"/>
+   <linked-el length="43" name="%4" offset="1208" path="%7"/>
+   <linked-el length="40" name="%4" offset="649" path="%8"/>
+   <linked-el length="17" name="%4" offset="1276" path="%8"/>
+   <linked-el length="16" name="%4" offset="1229" path="%8"/>
+   <linked-el length="19" name="%9" offset="1503" path="%8"/>
+   <linked-el length="35" name="%9" offset="737" path="%7"/>
+   <linked-el length="44" name="%9" offset="977" path="%7"/>
+   <linked-el length="19" name="%9" offset="1553" path="%8"/>
+   <linked-el length="20" name="%9" offset="1363" path="%8"/>
+   <linked-el length="21" name="%9" offset="1414" path="%8"/>
+   <linked-el length="43" name="%9" offset="1208" path="%7"/>
+   <linked-el length="17" name="%9" offset="1276" path="%8"/>
+   <linked-el length="16" name="%9" offset="1229" path="%8"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/demoSemana2/src/main/java/pe/edu/upc/controller/MotorController.java" value="%2"/>
+  <alias path="/demoSemana2/src/main/webapp/listMotor.xhtml" value="%8"/>
+  <alias path="motorController" value="%4"/>
+  <alias path="/demoSemana2/src/main/java/pe/edu/upc/dao/IMotorDao.java" value="%5"/>
+  <alias
+   path="/demoSemana2/src/main/java/pe/edu/upc/Service/IMotorService.java" value="%6"/>
+  <alias path="/demoSemana2/src/main/webapp/motor.xhtml" value="%7"/>
+  <alias
+   path="/demoSemana2/src/main/java/pe/edu/upc/ServiceImpl/MotorServiceImpl.java" value="%1"/>
+  <alias path="motorServiceImpl" value="%3"/>
+  <alias
+   path="/demoSemana2/src/main/java/pe/edu/upc/daoimpl/MotorDaoImpl.java" value="%0"/>
+  <alias path="/demoSemana2/src/main/java/pe/edu/upc/entity/Motor.java" value="%9"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://primefaces.org/ui">
+   <prefix>p</prefix>
+  </uri>
+ </uris>
+</kb-project>

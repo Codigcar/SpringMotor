@@ -1,0 +1,12 @@
+package pe.edu.upc.controller;
+
+import java.io.Serializable;
+
+public class MotorController implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+
+	private IMotorService mService;
+	private Motor motor;
+	List<Motor> listaMotores;
+}

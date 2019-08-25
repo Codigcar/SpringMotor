@@ -1,0 +1,22 @@
+package pe.edu.upc.daoimpl;
+
+import java.util.List;
+
+import pe.edu.upc.conexion.Motor;
+import pe.edu.upc.dao.IMotorDao;
+
+public class IMotorDaoImpl implements IMotorDao{
+
+	@Override
+	public void insertar(Motor motor) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<Motor> listar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

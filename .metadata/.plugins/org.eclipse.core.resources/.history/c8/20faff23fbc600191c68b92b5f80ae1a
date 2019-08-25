@@ -1,0 +1,27 @@
+package pe.edu.upc.controller;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.annotation.PostConstruct;
+
+import pe.edu.upc.Service.IMotorService;
+import pe.edu.upc.entity.Motor;
+
+public class MotorController implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+
+	private IMotorService mService;
+	private Motor motor;
+	List<Motor> listaMotores;
+	
+	@PostConstruct
+	public void init() {
+		this.listaMotores=new ArrayList<Motor>();
+		this.motor=new Motor();
+		this.listar();
+	}
+
+}

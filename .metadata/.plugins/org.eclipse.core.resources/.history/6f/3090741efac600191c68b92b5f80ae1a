@@ -1,0 +1,17 @@
+package pe.edu.upc.ServiceImpl;
+
+import java.util.List;
+
+import javax.inject.Inject;
+
+import pe.edu.upc.Service.IMotorService;
+import pe.edu.upc.dao.IMotorDao;
+import pe.edu.upc.entity.Motor;
+
+public class MotorServiceImpl implements IMotorService{
+
+	@Inject
+	private IMotorDao mD;
+	
+
+}

@@ -1,0 +1,8 @@
+package pe.edu.upc.conexion;
+
+import java.sql.Connection;
+
+public class MotorConexion {
+
+	
+}

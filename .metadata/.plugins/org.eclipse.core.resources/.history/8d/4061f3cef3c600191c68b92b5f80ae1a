@@ -1,0 +1,14 @@
+package pe.edu.upc.conexion;
+
+public class Motor {
+
+	private int idMotor;
+	private String nombreMotor;
+	private Date fechaMotor;
+	public Motor(int idMotor,String nombreMotor,Date fechaMotor) {
+		this.idMotor=idMotor;
+		this.nombreMotor=nombreMotor;
+		this.fechaMotor=fechaMotor;
+	}
+	
+}

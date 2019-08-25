@@ -1,0 +1,9 @@
+package pe.edu.upc.conexion;
+
+public class MotorConexion {
+
+	private Connection oCn;
+	public MotorDaoImpl() {
+		oCn=Conexion.AbrirConexion();
+	}
+}
